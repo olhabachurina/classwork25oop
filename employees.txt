@@ -1,0 +1,10 @@
+First Name: petr
+Last Name: petrenko
+Position: 1
+Salary: 1500
+-------------------
+First Name: ivan
+Last Name: ivanenko
+Position: 2
+Salary: 2000
+-------------------
